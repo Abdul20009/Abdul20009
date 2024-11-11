@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Abdul20009
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter developers
-- 📫 How to reach me abdulrahmanhamza270@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Abdulrahman (@Abdul20009)
+👀 Passionate about software development and exploring new tech!
+🌱 Currently diving deep into Node.js for backend development.
+💞️ Open to collaboration on Flutter and Node.js projects.
+📫 Reach me at: abdulrahmanhamza270@gmail.com
+⚡ Fun fact: I’m a night owl coder, often fueled by late-night ideas and creativity!
 
 <!---
 Abdul20009/Abdul20009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
